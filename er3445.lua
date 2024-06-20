@@ -1,4 +1,4 @@
-local creditsToGive = 100  -- Adjust this number as needed
+local creditsToGive = 1244520  -- Adjust this number as needed
 local function giveCredits(player)
     if player then
         local leaderstats = player:FindFirstChild("leaderstats")
